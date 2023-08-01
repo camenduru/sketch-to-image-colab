@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sketch-to-image-colab/blob/main/sketch_to_image_colab.ipynb) | sketch_to_image_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sketch-to-image-colab/blob/main/sketch_to_image_colab.ipynb) | sketch_to_image_colab (Pro Colab 😭)
 
 ## Main Repo
 
